@@ -14,16 +14,16 @@ https://swift-mart-five.vercel.app/
 
 This project is a modern e-commerce platform where users can register, create their own **shop**, manage **products**, **brands**, and **categories**, and sell items through a secure and interactive interface.
 
-It features a user-friendly interface, dynamic cart functionality, and secure payment integration—perfect for portfolio demonstration or small business use.
+It features a user-friendly interface, dynamic cart functionality, and secure payment integration—perfect for small business use.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Next.js 13+ (App Router), Tailwind CSS, ShadCN UI
+- **Frontend:** Next.js 15 (App Router), Tailwind CSS, ShadCN UI
 - **State Management:** Redux Toolkit, Redux Persist
 - **Authentication:** JWT-based auth (access & refresh tokens)
-- **Database/API:** (add this if you're using MongoDB, PostgreSQL, etc.)
+- **Database/API:** (MongoDB, Express)
 - **Payment Gateway:** SSLCommerz
 - **Other Tools:** Cloudinary (for image upload), Form handling with react-hook-form or equivalent
 
