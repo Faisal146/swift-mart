@@ -3,7 +3,7 @@ import { Button } from "../../button";
 import { useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
 
-const TablePagination = ({ totalPage }: { totalPage: number }) => {
+const TablePagination = ({ totalPage }: any) => {
   const [currentPage, setCurrentPage] = useState(1);
   //   console.log(currentPage);
   const router = useRouter();

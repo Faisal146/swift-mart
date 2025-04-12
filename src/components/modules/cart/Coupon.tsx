@@ -19,7 +19,7 @@ export default function Coupon() {
   const shopId = useAppSelector(shopSelector);
   const { isLoading, code } = useAppSelector(couponSelector);
 
-  const dispatch = useAppDispatch();
+  const dispatch = useAppDispatch() as any;
 
   const form = useForm();
 

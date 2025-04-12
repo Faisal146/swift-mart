@@ -6,7 +6,7 @@ A full-featured, scalable e-commerce web application built with **Next.js**, sty
 
 ## 🌐 Live Demo
 
-Coming soon... (or add your deployed URL here)
+https://swift-mart-five.vercel.app/
 
 ---
 
